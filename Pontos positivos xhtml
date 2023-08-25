@@ -1,0 +1,56 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="./stylepontos.css" />
+    <link rel="stylesheet" href="./js/main.js" />
+
+    <title>Sustentabilidade</title>
+</head>
+<body>
+
+    <nav class="navbar">
+        <div class="navbar-container">
+            <div class="logo">
+                <img src="imgs/Capturar.PNG" alt="Sustentabilidade" width="100%" height="90%" />
+            </div>
+            <ul class="navbar-items">
+                <li><a href="./index.xhtml">Início</a></li>
+                <li><a href="./index.xhtml">Pontos</a></li>
+                <li><a href="./index.xhtml">Sobre</a></li>
+            </ul>
+        </div>
+    </nav>
+
+    <section class="publi" id="sobrenos">
+        <div class="main">
+            <div class="contentsobre">
+                <br />
+                <h2>Reflitir Nunca é demais!</h2>
+                <p>Não existe jogar fora. Todo lixo que você produz continua em algum lugar do planeta.</p>
+                <h5>Mayara Benatti</h5>
+            </div>
+        </div>
+    </section>
+
+    <br />
+    <center><h1>Pontos Positivos</h1></center>
+    <br />
+
+    <section class="conteúdo">
+        <ul>
+            <li><h2>Benefícios para a saúde:</h2></li>
+            <p>A promoção de práticas sustentáveis, como a redução da poluição do ar e a melhoria na qualidade da água, pode ter impactos positivos na saúde humana. Por exemplo, a diminuição da emissão de poluentes atmosféricos contribui para a redução de doenças respiratórias, como asma e bronquite, além de diminuir a incidência de problemas cardiovasculares.</p>
+            <li><h2>Benefícios econômicos:</h2></li>
+            <p>A sustentabilidade também pode trazer vantagens econômicas. A adoção de fontes de energia renovável, como a solar e a eólica, pode reduzir os custos de energia a longo prazo. Além disso, a implementação de práticas sustentáveis nas empresas pode aumentar a eficiência e reduzir desperdícios, resultando em economia de recursos e redução de custos.</p>
+            <li><h2>Alimentação sustentável:</h2></li>
+            <p>Uma curiosidade relacionada à sustentabilidade na alimentação é que a adoção de dietas mais sustentáveis, como a alimentação à base de vegetais, pode ter um impacto significativo na redução das emissões de gases de efeito estufa. A produção de carne tem uma pegada ambiental maior em comparação com a produção de alimentos vegetais, portanto, a redução do consumo de carne pode contribuir para a mitigação das mudanças climáticas.</p>
+            <li><h2>Efeito positivo das pequenas ações:</h2></li>
+            <p>Pequenas ações individuais em prol da sustentabilidade, como a reciclagem de resíduos, a economia de água e energia, e o uso de transporte público ou bicicletas, podem ter um impacto significativo quando adotadas por muitas pessoas. O poder da ação coletiva é uma curiosidade interessante sobre sustentabilidade, pois mostra como cada indivíduo pode contribuir para a construção de um futuro mais sustentável.</p>
+        </ul>
+    </section>
+
+</body>
+</html>
