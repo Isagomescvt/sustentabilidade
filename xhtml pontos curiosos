@@ -1,0 +1,62 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="./stylecuriosos.css" />
+    <link rel="stylesheet" href="./js/main.js" />
+
+    <title>Sustentabilidade</title>
+</head>
+<body>
+
+    <nav class="navbar">
+        <div class="navbar-container">
+            <div class="logo">
+                <img src="imgs/Capturar.PNG" alt="Sustentabilidade" width="100%" height="90%" />
+            </div>
+            <ul class="navbar-items">
+                <li><a href="./index.xhtml">Início</a></li>
+                <li><a href="./index.xhtml">Pontos</a></li>
+                <li><a href="./index.xhtml">Sobre</a></li>
+            </ul>
+        </div>
+    </nav>
+
+    <section class="publi" id="sobrenos">
+        <div class="main">
+            <div class="contentsobre">
+                <br />
+                <h2>Reflitir Nunca é demais!</h2>
+                <p>"Preservar a natureza é a chave para manter o equilíbrio ambiental."</p>
+                <h5>Rafael Nolêto</h5>
+            </div>
+        </div>
+    </section>
+
+    <br />
+    <center><h1>Pontos de Curiosidades</h1></center>
+
+    <section class="conteúdo">
+        <ul>
+            <li><h2>Energia renovável:</h2></li>
+            <p>A energia renovável, como solar, eólica e hidrelétrica, é uma forma limpa de produzir energia sem esgotar recursos naturais. A capacidade global de energia renovável está aumentando rapidamente, e espera-se que continue a crescer nos próximos anos.</p>
+
+            <li><h2>Reciclagem de papel:</h2></li>
+            <p>Reciclar uma tonelada de papel pode salvar cerca de 17 árvores, economizar energia e reduzir a poluição do ar em até 73%</p>
+
+            <li><h2>Mobilidade sustentável:</h2></li>
+            <p>O uso de veículos elétricos e bicicletas como meio de transporte tem crescido significativamente nos últimos anos, reduzindo as emissões de gases de efeito estufa e a poluição do ar.</p>
+
+            <li><h2>Arquitetura verde:</h2></li>
+            <p>A arquitetura sustentável visa projetar edifícios que sejam energeticamente eficientes, façam uso de materiais sustentáveis e aproveitem fontes de energia renovável, como painéis solares.</p>
+
+        </ul>
+    </section>
+
+</body>
+</html>
+
+
+   
