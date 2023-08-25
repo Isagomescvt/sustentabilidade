@@ -1,0 +1,58 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="./stylenegativos.css" />
+    <link rel="stylesheet" href="./js/main.js" />
+
+    <title>Sustentabilidade</title>
+</head>
+<body>
+
+    <nav class="navbar">
+        <div class="navbar-container">
+            <div class="logo">
+                <img src="imgs/Capturar.PNG" alt="Sustentabilidade" width="100%" height="90%" />
+            </div>
+            <ul class="navbar-items">
+                <li><a href="./index.xhtml">Início</a></li>
+                <li><a href="./index.xhtml">Pontos</a></li>
+                <li><a href="./index.xhtml">Sobre</a></li>
+            </ul>
+        </div>
+    </nav>
+
+    <section class="publi" id="sobrenos">
+        <div class="main">
+            <div class="contentsobre">
+                <br />
+                <h2>Reflitir Nunca é demais!</h2>
+                <p>“Preservar a natureza é uma demonstração de amor e respeito pelo planeta e pela inteligência que o criou.”</p>
+                <h5>A.G</h5>
+            </div>
+        </div>
+    </section>
+
+    <br />
+    <center><h1>Pontos Negativos</h1></center>
+    <br />
+
+    <section class="conteúdo">
+        <ul>
+            <li><h2>Barreiras tecnológicas:</h2></li>
+            <p>Em alguns casos, a adoção de práticas sustentáveis pode exigir tecnologias avançadas que ainda não estão totalmente desenvolvidas ou amplamente disponíveis. Isso pode limitar a capacidade de implementar soluções sustentáveis em determinadas áreas ou setores.</p>
+            <li><h2>Impacto econômico em curto prazo:</h2></li>
+            <p>Em alguns casos, a adoção de práticas sustentáveis pode ter um impacto econômico negativo em curto prazo. Mudanças significativas na forma como as empresas operam podem exigir investimentos adicionais ou levar a uma redução temporária dos lucros.</p>
+            <li><h2>Conflito com interesses comerciais:</h2></li>
+            <p>A sustentabilidade muitas vezes entra em conflito com os interesses comerciais de curto prazo. Empresas que dependem de práticas insustentáveis podem resistir à adoção de medidas sustentáveis devido ao impacto em seus lucros ou ao custo de mudanças em sua cadeia de suprimentos.</p>
+            <li><h2>Complexidade e desafios de implementação:</h2></li>
+            <p>A sustentabilidade envolve uma abordagem holística para abordar questões ambientais, sociais e econômicas complexas. Isso pode exigir uma coordenação eficaz entre diferentes partes interessadas e enfrentar desafios logísticos, regulatórios e culturais ao implementar medidas sustentáveis.</p>
+        </ul>
+    </section>
+
+</body>
+</html>
+
+   
